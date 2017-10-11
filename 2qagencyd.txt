@@ -1,3 +1,5 @@
-2qagency
+http://2qagency.dev/wp-admin/
 
-xilciWCL%cD4w8tk&R
+login: 2qagency
+
+pass: xilciWCL%cD4w8tk&R
